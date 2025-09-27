@@ -54,8 +54,8 @@ Before this project, students and staff struggled with:
 ---
 
 ## Tech Stack
-- **Frontend:** JavaScript, HTML, CSS, React  
-- **Backend/Data:** Google Sheets API  
+- **Frontend:** JavaScript, HTML, CSS, React, Angular 
+- **Backend/Data:** Google Sheets API, Google Visualization API
 - **Object-Oriented Concepts:** JavaScript classes/components  
 - **Design Tools:** Figma, UOP Brand Guidelines  
 - **Collaboration Tools:** Agile methodology, cross-functional design reviews  
@@ -68,9 +68,29 @@ Before this project, students and staff struggled with:
 - Recognized by supervisor with a **recommendation letter** for innovation and impact.  
 - Reduced duplicate course approval submissions and confusion for advisors.  
 
----
+  ---
+## Deployment Context
 
+This project is deployed inside the **Pacific Global Study Abroad Portal**:  
+🔗 [pacific-global.via-trm.com](https://pacific-global.via-trm.com/authV2/welcome)
+
+> ⚠️ Note: To see the live module, you must sign up or log in to the portal.
+
+  ### What you’ll see after sign-in:
+  - A **custom React + Angular mapping system** that I built.
+  - A **“Brochure” section** for different global universities.
+  - A **course mapping system**, allowing students and advisors to explore equivalencies across programs.
+
+
+   ---
+  
 ## Screenshots
+
+<img width="3024" height="1596" alt="image" src="https://github.com/user-attachments/assets/d0236cee-f5ae-44fe-bffa-7d46e43f4e98" />
+
+<img width="2966" height="1566" alt="image" src="https://github.com/user-attachments/assets/7bb0766a-dd93-474f-ad29-99c565a2dbce" />
+
+<img width="2988" height="1588" alt="image" src="https://github.com/user-attachments/assets/35fd8828-3cec-4572-b655-c6a64dc7a64d" />
 
 <img width="1512" height="615" alt="Screenshot 2025-09-17 at 12 49 11 AM" src="https://github.com/user-attachments/assets/46a5f96b-2f5a-4ef6-b390-2e9c392fda5d" />
 
@@ -79,6 +99,7 @@ Before this project, students and staff struggled with:
 <img width="1508" height="707" alt="Screenshot 2025-09-17 at 12 49 50 AM" src="https://github.com/user-attachments/assets/95440206-0d62-4b6c-bff8-e02311304aef" />
 
 <img width="1502" height="259" alt="Screenshot 2025-09-17 at 12 50 09 AM" src="https://github.com/user-attachments/assets/d63d161b-7334-485b-a79c-bbed8a3ca248" />
+
 
 
 ---
