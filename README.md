@@ -1,4 +1,4 @@
-# 📘 UOP Study Abroad Course Mapping System
+# 📘 Global course mapping tool
 
 ## Project Overview
 The **Course Mapping System** was developed for the **University of the Pacific – Office of Global Education** (Summer 2025).  
