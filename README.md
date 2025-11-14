@@ -1,4 +1,4 @@
-# 📘 Global course mapping tool
+#  Global course mapping tool
 
 ## Project Overview
 The **Course Mapping System** was developed for the **University of the Pacific – Office of Global Education** (Summer 2025).  
@@ -44,12 +44,12 @@ Before this project, students and staff struggled with:
 ---
 
 ## Features
-- 🔍 **Interactive Search & Filter** – quickly find approved courses.  
-- 📑 **Course Approval Management** – admin tools for uploading new courses.  
-- 📂 **CSV/Excel Export** – for student and advisor record-keeping.  
-- 📱 **Responsive UI** – works seamlessly across devices.  
-- 🎨 **Brand-Aligned Design** – consistent spacing, typography, and colors.  
-- ♿ **Accessibility Standards** – high contrast, semantic HTML, keyboard navigation.  
+-  **Interactive Search & Filter** – quickly find approved courses.  
+-  **Course Approval Management** – admin tools for uploading new courses.  
+-  **CSV/Excel Export** – for student and advisor record-keeping.  
+-  **Responsive UI** – works seamlessly across devices.  
+-  **Brand-Aligned Design** – consistent spacing, typography, and colors.  
+-  **Accessibility Standards** – high contrast, semantic HTML, keyboard navigation.  
 
 ---
 
@@ -74,7 +74,7 @@ Before this project, students and staff struggled with:
 This project is deployed inside the **Pacific Global Study Abroad Portal**:  
 🔗 [pacific-global.via-trm.com](https://pacific-global.via-trm.com/authV2/welcome)
 
-> ⚠️ Note: To see the live module, you must sign up or log in to the portal.
+>  Note: To see the live module, you must sign up or log in to the portal.
 
   ### What you’ll see after sign-in:
   - A **custom React + Angular mapping system** that I built.
@@ -106,7 +106,7 @@ This project is deployed inside the **Pacific Global Study Abroad Portal**:
 
 ## Access
 - Internal tool deployed at the University of the Pacific.  
-- 🌐 **Live Demo (Published)**: [Course Approval Request Form Viewer](https://uop-course-approval-request-form-view.netlify.app)  
+-  **Live Demo (Published)**: [Course Approval Request Form Viewer](https://uop-course-approval-request-form-view.netlify.app)  
   > This link is being added to the official **University of the Pacific Study Abroad website** for student and advisor use.  
 - Source code and documentation are available in this repository.
 ---
